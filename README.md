@@ -7,8 +7,13 @@ using the state-of-the-art deep learning frameworks such as:
 * pytorch
 * tensorflow
 
-in the first folder of basic implementations I have created some basic neural networks such as:
+In the first folder of basic implementations I have created some basic neural networks such as:
 * Fully Connected Neural Networks
 * Convolutions Neural Networks
 * Recurrent Neural Networks
 
+I have also implemented some well-known papers such as:
+* LeNet
+* VGG
+* Inception
+* ResNets
